@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jeevan Chandrahas Naik</h1>
+<h1 align="center"> I'm Jeevan Chandrahas Naik</h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+welcome+to+my+profile+!++%F0%9F%91%8B" alt="Typing SVG" /></a></h1>
 <h3 align="center">Engineering Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeevan-chandrahas-naik&label=Profile%20views&color=0e75b6&style=flat" alt="jeevan-chandrahas-naik" /> </p>
