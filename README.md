@@ -1,5 +1,10 @@
 <h1 align="center"> I'm Jeevan Chandrahas Naik</h1>
- <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=455&lines=Hi+welcome+to+my+profile+!" alt="Typing SVG" /></a></h1>
+
+
+ <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=300&size=22&pause=1200&color=48BDF8&center=true&vCenter=true&width=650&lines=Hi+Welcome+To+My+Profile+!;" />
+</p>
+
 
 
 
