@@ -10,8 +10,25 @@
 
 <div align="center">Student of Information Science Engineering</div>
 <div align="center">Canara Engineering College</div>  
+<br>
+<table>
+  <tr>
+    <td valign="top" width="72%">
 
+## About Me: 😊
 
+- 🎓 Information Science Engineering student at **Canara Engineering College**.
+- 💻 I like turning ideas into useful applications.
+- 🌱 Currently improving my programming, web development, and database skills.
+- 🔭 Building projects with **C, Java, JavaScript, Python, and MySQL**.
+- 📫 Reach me through my [GitHub profile](https://github.com/Jeevan-Chandrahas-Naik).
+
+    </td>
+    <td align="center" valign="middle" width="28%">
+      <a href="https://github.com/Jeevan-Chandrahas-Naik"><img src="https://github.com/Jeevan-Chandrahas-Naik.png?size=220" width="180" alt="Jeevan Chandrahas Naik" /></a>
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">🛠️ Languages and Tools</h3>
 
